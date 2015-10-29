@@ -1,0 +1,37 @@
+{
+  "name": "is-vfile-message",
+  "description": "Check if a value is a VFileMessage object",
+  "keywords": [
+    "vfile",
+    "virtual",
+    "file",
+    "message",
+    "check",
+    "checker",
+    "if",
+    "bool",
+    "boolean",
+    "error",
+    "type",
+    "typecheck",
+    "type-check"
+  ],
+  "main": "browser.js",
+  "moduleType": "globals",
+  "homepage": "https://github.com/shinnn/is-vfile-message",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/is-vfile-message.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "coverage",
+    "node_modules"
+  ]
+}
